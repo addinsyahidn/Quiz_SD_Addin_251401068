@@ -5,7 +5,7 @@
 - NIM   : _251401068_
 
 ## Video Penjelasan
-YouTube: _link_
+YouTube: _https://youtu.be/ti6SzqsxaCw_
 
 ## Struktur Folder
 ```
