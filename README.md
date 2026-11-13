@@ -49,15 +49,7 @@ Program menyimpan data mahasiswa dengan NIM sebagai key dan nama sebagai value.
 
 ## Cara Menjalankan
 
-**1. Kompilasi dan jalankan** (butuh compiler C++, misalnya g++ / MinGW). Dari folder repository:
-
-```bash
-g++ nilai_mahasiswa.cpp -o nilai_mahasiswa
-./nilai_mahasiswa          # Windows: nilai_mahasiswa.exe
-```
-Ganti nama file untuk program lain (`perpustakaan`, `rute_kampus`, `hash_table`).
-
-**2. Gunakan program lewat menu.** Setiap program menampilkan menu angka. Ketik nomor menu lalu tekan Enter, ikuti perintah input yang muncul, dan ketik `0` untuk keluar. Setelah satu menu selesai, tekan sembarang tombol untuk kembali ke menu.
+**Gunakan program lewat menu.** Setiap program menampilkan menu angka. Ketik nomor menu lalu tekan Enter, ikuti perintah input yang muncul, dan ketik `0` untuk keluar. Setelah satu menu selesai, tekan sembarang tombol untuk kembali ke menu.
 
 **Soal 1 - Nilai Mahasiswa**
 
